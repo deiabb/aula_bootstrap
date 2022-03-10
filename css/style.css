@@ -1,0 +1,57 @@
+body {
+  font-family: 'Urbanist', sans-serif;
+}
+
+.navbar {
+  padding-left: 40px;
+  background: rgb(243, 243, 140);
+  font-weight: 700;
+}
+
+.quem-somos {
+  background: rgb(248, 206, 212);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+ font-family: 'Pacifico', cursive;
+ font-size: 45px;
+ margin-bottom: 20px;
+}
+
+.fontes-img {
+  text-decoration: none;
+  color: rgb(107, 107, 107);
+  font-size: 8px;
+  font-weight: bold;
+}
+
+.uni-pc {
+  background-color: rgb(218, 248, 254);
+}
+
+.parceiros {
+  background: rgb(212, 177, 243);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.servicos {
+  background: rgb(176, 247, 176); 
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.rodape {
+  background: rgb(154, 225, 247);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.lista-fontes {
+  list-style-type: none;
+}
